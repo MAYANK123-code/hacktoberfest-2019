@@ -1,10 +1,10 @@
 ## Introduction :sunglasses:
-**Name :name_badge:**:     Harshit Bhalla
+**Name :name_badge:**:     Mayank
 <br>
-**GitHub id :id:**: [I'm Harshit Bhalla](https://github.com/harshitsan)
+**GitHub id :id:**: [I'm Mayank](https://github.com/MAYANK123-code)
 <br>
-**place :house:** : Ambala City
+**place :house:** : Kolkata
 ### About me :boy: :
 ---
-I am Harshit Bhalla, A final year computer science student.
+I am Mayank, A final year computer science student.
 My major areas of interest are Web Development, Open Source, Sales, Marketing.
